@@ -8,7 +8,7 @@
 > I don’t build features.  
 > I build systems that make features governable.
 
----
+
 
 ## What I Work On
 
@@ -20,7 +20,7 @@
 
 I care about structure, versioning, traceability, and decision visibility.
 
----
+
 
 ## Core Stack
 
@@ -31,7 +31,7 @@ I care about structure, versioning, traceability, and decision visibility.
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+
 
 # Projects
 
@@ -52,7 +52,7 @@ Accord treats access as a *formal agreement* between identities, systems, and re
 
 → Built as infrastructure, not middleware.
 
----
+
 
 ## 👻 Valac
 **Behavioral coding telemetry – without reading your code**
@@ -67,7 +67,7 @@ Valac tracks *how* you work, not what you write.
 
 This is cognitive engineering for developers.
 
----
+
 
 ## 🧠 WorkCTL
 **Continuity layer for developers**
@@ -82,7 +82,7 @@ WorkCTL lets you stop and resume projects without losing mental state.
 
 It solves *cognitive loss*, not productivity.
 
----
+
 
 ## 📚 Accord Developer Content
 Official documentation platform for Accord.
@@ -94,7 +94,7 @@ Official documentation platform for Accord.
 
 Documentation is part of the system.
 
----
+
 
 ## Philosophy
 
@@ -104,7 +104,7 @@ Documentation is part of the system.
 - Build for long-term control, not short-term speed  
 - Treat authorization and workflow as first-class architecture  
 
----
+
 
 ## Long-Term Direction
 
@@ -117,7 +117,7 @@ I’m building toward:
 
 Under **Naviron Dynamics** — “Look Ahead. Lead Ahead.”
 
----
+
 
 ## Connect
 

@@ -1,131 +1,82 @@
 # Bawanga Senevirathne 👋
 
-📍 Sri Lanka  
-🧠 Systems Architect | Policy-First Engineering  
-🏗️ Co-Founder – Naviron Dynamics  
-⚙️ Building governance layers, cognitive tooling & developer infrastructure  
+📍 Sri Lanka | 🧠 Systems-focused engineer | 🏗️ Co-Founder – Naviron Dynamics
 
-> I don’t build features.  
-> I build systems that make features governable.
-
-
-
-## What I Work On
-
-- Authorization control planes
-- Developer cognition & workflow systems
-- Behavioral engineering for software teams
-- Enterprise-ready Node.js infrastructure
-- Tourism & AgriTech systems (long-term vision)
-
-I care about structure, versioning, traceability, and decision visibility.
-
-
-
-## Core Stack
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-
-# Projects
-
-## 🛡 Accord
-**Policy-first identity & access control platform for Node.js**
-
-Authorization should not live inside scattered conditionals.  
-Accord treats access as a *formal agreement* between identities, systems, and resources.
-
-- Platform mode (HTTP control plane)
-- Library mode
-- Versioned policies
-- Rollback & simulation engine
-- Decision tracing & observability
-- Postgres & file adapters
-
-`npm install @navirondynamics/accord`
-
-→ Built as infrastructure, not middleware.
-
-
-
-## 👻 Valac
-**Behavioral coding telemetry – without reading your code**
-
-Valac tracks *how* you work, not what you write.
-
-- Detects perfection loops (Churn Energy)
-- Measures context switching (Drift Energy)
-- Identifies mental stalls
-- Session-based per project
-- No code content stored (privacy-first)
-
-This is cognitive engineering for developers.
-
-
-
-## 🧠 WorkCTL
-**Continuity layer for developers**
-
-Context switching is expensive.  
-WorkCTL lets you stop and resume projects without losing mental state.
-
-- Project memory
-- Task state tracking
-- Start/Stop/Resume flow
-- Append-only history
-
-It solves *cognitive loss*, not productivity.
-
-
-
-## 📚 Accord Developer Content
-Official documentation platform for Accord.
-
-- MDX-based interactive documentation
-- API references
-- Simulation guides
-- Governance philosophy
-
-Documentation is part of the system.
-
-
-
-## Philosophy
-
-- Governance over chaos  
-- Version everything  
-- Make decisions visible  
-- Build for long-term control, not short-term speed  
-- Treat authorization and workflow as first-class architecture  
-
-
-
-## Long-Term Direction
-
-I’m building toward:
-
-- Enterprise-grade policy infrastructure
-- Tourism technology platforms
-- AgriTech system architecture
-- Control planes for SMEs in emerging markets
-
-Under **Naviron Dynamics** — “Look Ahead. Lead Ahead.”
-
-
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/bawanga-senevirathne-675564201/)  
-[Naviron Dynamics](https://navirondynamics.com)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-> Systems scale.  
-> People burn out.  
-> I optimize the former to protect the latter.
+I design and build structured software systems — focusing on authorization, workflow continuity, and developer tooling.  
+My work centers around making complex systems more traceable, governable, and maintainable over time.
+
+---
+
+## Current Projects
+
+🛡 **[Accord](https://github.com/bsen-alt/Accord)** – Policy-first identity & access platform for Node.js.  
+Versioned authorization, simulation, rollback, and centralized decision tracing.
+
+👻 **[Valac](https://github.com/bsen-alt/valac)** – Behavioral coding telemetry CLI.  
+Tracks churn, drift, and stalls to understand how developers work — without storing code content.
+
+🧠 **[WorkCTL](https://github.com/bsen-alt/WorkCtl)** – Project continuity layer.  
+Start, stop, and resume work without losing context or task state.
+
+📚 **[Accord Developer Content](https://github.com/bsen-alt/accord.dev)** – Documentation platform for Accord.  
+MDX-based guides, API references, and governance philosophy.
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/bsen-alt)
+
+---
+
+## Focus Areas
+
+- Designing policy-driven systems
+- Building control layers for growing applications
+- Improving developer workflow continuity
+- Structuring SMEs’ digital systems under Naviron Dynamics
+- Researching long-term Tourism Tech & AgriTech platforms
+
+I build tools primarily to solve real problems we face while running and scaling systems.
+
+I share structured learnings and architectural thinking through  
+→ https://navirondynamics.com/insights
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Bawanga_Senevirathne-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bawanga-senevirathne-675564201/)
+[![Naviron Dynamics](https://img.shields.io/badge/-Naviron_Dynamics-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://navirondynamics.com)
+
+---
+
+## Philosophy
+
+> “Ship beats perfect.”  
+> I build tools to solve my own operational and architectural problems, then refine them into structured systems.  
+> Currently exploring how AI and policy engines reshape long-term software governance.
+
+---
+
+<details>
+<summary>Facts</summary>
+
+- Built and deployed full travel agency systems before formally registering the company  
+- Prefer structured systems over rapid hacks  
+- Think long-term about software, not just releases  
+
+</details>

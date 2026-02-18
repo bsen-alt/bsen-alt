@@ -1,6 +1,6 @@
 # Bawanga Senevirathne 👋
 
-📍 Sri Lanka | 🧠 Systems-focused engineer | 🏗️ Co-Founder – Naviron Dynamics
+📍 Sri Lanka | 🧠 Systems-focused engineer | 🏗️ Co-Founder - Naviron Dynamics
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,23 +15,23 @@
 
 ---
 
-I design and build structured software systems — focusing on authorization, workflow continuity, and developer tooling.  
+I design and build structured software systems - focusing on authorization, workflow continuity, and developer tooling.  
 My work centers around making complex systems more traceable, governable, and maintainable over time.
 
 ---
 
 ## Current Projects
 
-🛡 **[Accord](https://github.com/bsen-alt/Accord)** – Policy-first identity & access platform for Node.js.  
+🛡 **[Accord](https://github.com/bsen-alt/Accord)** - Policy-first identity & access platform for Node.js.  
 Versioned authorization, simulation, rollback, and centralized decision tracing.
 
-👻 **[Valac](https://github.com/bsen-alt/valac)** – Behavioral coding telemetry CLI.  
+👻 **[Valac](https://github.com/bsen-alt/valac)** - Behavioral coding telemetry CLI.  
 Tracks churn, drift, and stalls to understand how developers work — without storing code content.
 
-🧠 **[WorkCTL](https://github.com/bsen-alt/WorkCtl)** – Project continuity layer.  
+🧠 **[WorkCTL](https://github.com/bsen-alt/WorkCtl)** - Project continuity layer.  
 Start, stop, and resume work without losing context or task state.
 
-📚 **[Accord Developer Content](https://github.com/bsen-alt/accord.dev)** – Documentation platform for Accord.  
+📚 **[Accord Developer Content](https://github.com/bsen-alt/accord.dev)** - Documentation platform for Accord.  
 MDX-based guides, API references, and governance philosophy.
 
 ---
@@ -66,17 +66,17 @@ I share structured learnings and architectural thinking through
 
 ## Philosophy
 
-> “Ship beats perfect.”  
-> I build tools to solve my own operational and architectural problems, then refine them into structured systems.  
-> Currently exploring how AI and policy engines reshape long-term software governance.
+> “I design for control before scale”  
+> Systems should make decisions explicit, versioned, and traceable.
+> I focus on building systems that reduce ambiguity for developers, for teams, and for businesses operating in uncertain environments.
 
 ---
 
 <details>
 <summary>Facts</summary>
 
-- Built and deployed full travel agency systems before formally registering the company  
-- Prefer structured systems over rapid hacks  
-- Think long-term about software, not just releases  
+- I think in control planes, not features.
+- I care more about decision visibility than velocity metrics.
+- I design systems assuming they’ll outlive their first use case.
 
 </details>
